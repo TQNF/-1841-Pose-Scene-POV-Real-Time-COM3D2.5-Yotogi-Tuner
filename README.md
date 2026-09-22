@@ -46,6 +46,8 @@
 
 <img width="1260" height="904" alt="image" src="https://github.com/user-attachments/assets/854401de-4340-409f-89ef-93b68cdaced2" />
 
+<img width="1232" height="903" alt="8d8b97c1d82a4f920c7b0b1b29931d32" src="https://github.com/user-attachments/assets/e5841104-a9f7-4805-b608-9719ea664071" />
+
 ——————————————————————————————————————
 
 -安装-
