@@ -1,4 +1,4 @@
-【1841 Pose+Scene+POV】Real Time COM3D2.5 Yotogi Tuner
+<img width="1082" height="978" alt="dd12743159066fc7eb24df0a4bdb7d84" src="https://github.com/user-attachments/assets/0b2d153e-01fa-43bb-b615-6810aac5c3fd" /><img width="1082" height="978" alt="dd12743159066fc7eb24df0a4bdb7d84" src="https://github.com/user-attachments/assets/d675274d-a7b4-40c8-98b4-7beadfb84b2e" /><img width="1082" height="978" alt="dd12743159066fc7eb24df0a4bdb7d84" src="https://github.com/user-attachments/assets/62307893-7e16-4142-bbe8-dc2d8a1d9000" /><img width="1082" height="978" alt="dd12743159066fc7eb24df0a4bdb7d84" src="https://github.com/user-attachments/assets/dda617c6-194d-41bc-806c-f26f2aac02f8" />【1841 Pose+Scene+POV】Real Time COM3D2.5 Yotogi Tuner
 
 这是什么？有什么用？在哪下载？
 
@@ -21,6 +21,30 @@
 ※ 模拟KKS的【拜托了】全自动功能。
 
 ※ 关于更多请您自行体验。
+
+<img width="1004" height="1050" alt="e1fce3523118d42d751fbcf1f571d871" src="https://github.com/user-attachments/assets/717d4037-6511-4901-b746-8c1ae273cbde" />
+
+<img width="1082" height="978" alt="dd12743159066fc7eb24df0a4bdb7d84" src="https://github.com/user-attachments/assets/9bfe3a78-5ad4-4e9d-9a04-f13c8d4b68c5" />
+
+<img width="359" height="286" alt="83482a0ba89c8b093e961770da1fde78" src="https://github.com/user-attachments/assets/53cd07b0-0a5d-4b81-a7b4-5943fbeff0f0" />
+
+<img width="408" height="586" alt="baa8fe202e9623cd912507f935939ad7" src="https://github.com/user-attachments/assets/af9b40e6-4ec4-4952-9acf-53a178638267" />
+
+<img width="341" height="961" alt="7aab64a8d20751c4f09c0f0b1cd81dcb" src="https://github.com/user-attachments/assets/11a1bc56-b187-47e6-b57b-75b1b9eea279" />
+
+<img width="853" height="740" alt="62f24f9b91629e2b14451139a1b9dc80" src="https://github.com/user-attachments/assets/5b5141e1-98d0-4879-8898-3a3b49513140" />
+
+<img width="878" height="762" alt="6c99cbd19298eb20876acadab0fbaab0" src="https://github.com/user-attachments/assets/1cf8f8f4-b786-498d-9034-2e6d5e03af74" />
+
+<img width="1123" height="1034" alt="508653369fa2ae5b18c7ecb96f60867b" src="https://github.com/user-attachments/assets/df2c4296-8599-42c9-932e-c81ca1f848ba" />
+
+<img width="399" height="597" alt="b5832b47e6ec20359425c059f9133425" src="https://github.com/user-attachments/assets/25a27f6f-18ae-47ea-abd0-dc4c6bd6e882" />
+
+<img width="368" height="580" alt="3020d04c5676831e5a47700737a11472" src="https://github.com/user-attachments/assets/c223757b-3796-4cb7-a710-a1e0c54460d5" />
+
+<img width="1920" height="1080" alt="02e1512f-bc91-4b98-97d4-619baa5caa47" src="https://github.com/user-attachments/assets/8cfd89bc-09c8-4e84-a9f1-0234f5fd259d" />
+
+<img width="1260" height="904" alt="image" src="https://github.com/user-attachments/assets/854401de-4340-409f-89ef-93b68cdaced2" />
 
 ——————————————————————————————————————
 
