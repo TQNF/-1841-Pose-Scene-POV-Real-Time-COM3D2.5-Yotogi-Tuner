@@ -3,14 +3,23 @@
 这是什么？有什么用？在哪下载？
 
 ※ 自由调整，随心所欲搭配，不再有任何限制。
+
 ※ 实时切换【姿势、场景、POV、坐标】。
+
 ※ 无缝切换所有【场景、姿势】。
+
 ※ 全翻译的姿势+场景【共计：2061】。
+
 ※ 您可以【搜索】任何姿势，无缝切换您喜欢的任何行为。
+
 ※ 切换场景的姿势保留。
+
 ※ 自由调整在夜伽中的数值。
+
 ※ 适配【2.0+3.0】模型的POV以及姿势。
+
 ※ 模拟KKS的【拜托了】全自动功能。
+
 ※ 关于更多请您自行体验。
 
 ——————————————————————————————————————
@@ -42,9 +51,13 @@
 -关于-
 
 不论您来自哪个国籍，欢迎您请共同维护COM3D2.5社区。
+
 当插件功能开后，您可以随意编辑、逆向与翻译。
+
 遇到问题请随时DM或留言，不必害羞，因为我也害羞。
+
 请勿将插件用于售卖！！！
+
 WELL~祝您游戏愉快。
 
 
@@ -70,8 +83,11 @@ CRE：https://github.com/TQNF/COM3D2.CRE.SceneUndo
 !!! CR编辑器注入修复：https://github.com/TQNF/COM3D2.5.CR-Editor-Injection-Fix
 
 【对于中文或使用翻译的玩家，您可以尝试下载或修改，有问题请联系我。】
+
 【winhttp 4.2.0→4.4.1+配置相对路径】
+
 【doorstop_config修改路径：target_assembly=BepInEx\core\BepInEx.Preloader.dll】
+
 【使用前请备份！】
 
 
@@ -85,7 +101,9 @@ CRE：https://github.com/TQNF/COM3D2.CRE.SceneUndo
 Assembly-CSharp补丁：https://github.com/TQNF/COM3D2.Assembly-CSharp-FIX
 
 【Fix官方bug：摄影模式场景选择崩溃/异常刷屏】
+
 【使用前请备份！】
+
 【COM3D2_5\COM3D2x64_Data\Managed】
 
 ——————————————————————————————————————
